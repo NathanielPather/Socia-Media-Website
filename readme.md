@@ -1,25 +1,37 @@
-## Laravel PHP Framework
+<h1>Social Media Website - University Assignment</h1>
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+<h2>About</h2>
+This is a social media website made for my intelligent media systems web developer course at university. This was a second year course that pushed us past simple HTML, CSS, and JS, by exploring more useful frameworks to speed up production and achieve more complex functionality.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+This project can be thought of a replication of Facebook.
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+<h2>Skills Used</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>PHP</li>
+  <li>MySQL</li>
+</ul>
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+<h2>Frameworks Used</h2>
+<ul>
+  <li>Laravel - 4.2</li>
+  <li>Bootstrap</li>
+</ul>
 
-## Official Documentation
+<h2>Live Demo - Unavailable</h2>
+Unfortunately Laravel has updated to version 6.0, deprecating and removing support for 4.2.
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+No Live Demo for this project will be available until I find sufficient resources to launch this project with a 4.2 laravel environment, or to update this project to a supported version.
 
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+<h2>Features</h2>
+<ul>
+  <li>Account Creation</li>
+  <li>Authentication Login</li>
+  <li>Creating Posts</li>
+  <li>Commenting on specific Posts</li>
+  <li>Editing Posts</li>
+  <li>Deleting Posts</li>
+  <li>Editing Comments</li>
+  <li>Deleting Comments</li>
+</ul>
