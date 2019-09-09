@@ -3,7 +3,8 @@
 <h2>About</h2>
 This is a social media website made for my intelligent media systems web developer course at university. This was a second year course that pushed us past simple HTML, CSS, and JS, by exploring more useful frameworks to speed up production and achieve more complex functionality.
 
-This project can be thought of a replication of Facebook.
+
+This project can be thought of as a replication of Facebook.
 
 <h2>Skills Used</h2>
 <ul>
